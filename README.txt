@@ -1,4 +1,4 @@
-# Starterkit - Community Point V1.0.1
+# Starterkit - Community Point V1.1
 
 
 YEAH, you made it into a starter-kit!
